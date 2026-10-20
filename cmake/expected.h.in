@@ -1,0 +1,4 @@
+#include "game_data.h"
+#define PORT_BUILD_ID "@PORT_BUILD_ID@"
+#define PORT_GIT_COMMIT "@PORT_GIT_COMMIT@"
+#define PORT_VITAGL_REVISION "@PORT_VITAGL_REVISION@"

@@ -1,0 +1,23 @@
+# User-provided Android packages and everything derived from them
+*.apkm
+*.apk
+*.aab
+*.obb
+*.dex
+*.so
+*.vpk
+*.elf
+*.velf
+*.self
+*.zip
+*.log
+dist/
+build/
+
+# Local tooling and build artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+.vita
+work/

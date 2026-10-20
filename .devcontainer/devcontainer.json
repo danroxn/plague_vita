@@ -1,0 +1,18 @@
+{
+  "name": "Plague Vita",
+  "containerUser": "vitasdk",
+  "remoteUser": "vitasdk",
+  "updateRemoteUserUID": true,
+  "postCreateCommand": "git submodule update --init",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools"
+      ]
+    }
+  },
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  }
+}

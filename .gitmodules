@@ -1,0 +1,6 @@
+[submodule "third_party/vitaGL"]
+	path = third_party/vitaGL
+	url = https://github.com/rinnegatamante/vitagl
+[submodule "third_party/so_util"]
+	path = third_party/so_util
+	url = https://github.com/Rinnegatamante/so_util
